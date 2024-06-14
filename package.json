@@ -1,6 +1,6 @@
 {
   "name": "ifo-use-debounce-hook",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "this is custom hook for debounce method",
   "main": "./build/index.js",
   "scripts": {

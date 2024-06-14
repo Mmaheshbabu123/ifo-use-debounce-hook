@@ -19,7 +19,7 @@ Import the useDebounce hook and use it in your functional components.
 ```.jsx
 
 import React, { useState } from 'react';
-import useDebounce from 'ifo use-debounce-hook';
+import {useDebounce} from 'ifo use-debounce-hook';
 
 const SearchInput = () => {
   const [searchTerm, setSearchTerm] = useState('');
