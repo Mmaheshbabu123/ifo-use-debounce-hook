@@ -13,10 +13,10 @@ You can install this package using npm or yarn.
 npm install ifo-use-debounce-hook
 ```
 
-#Usage
+# Usage
 
 Import the useDebounce hook and use it in your functional components.
-```sh
+```.jsx
 
 import React, { useState } from 'react';
 import useDebounce from 'ifo use-debounce-hook';
@@ -45,11 +45,11 @@ const SearchInput = () => {
 
 export default SearchInput;
 ```
-#Contributing
+# Contributing
+<p>Author: Mahesh </p>
+<p>Thanks for downloading package </p>
 
-Contributions are welcome! Please open an issue or submit a pull request for any bug fixes or feature requests.
-
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
